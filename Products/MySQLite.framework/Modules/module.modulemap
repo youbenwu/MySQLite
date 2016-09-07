@@ -1,0 +1,6 @@
+framework module MySQLite {
+  umbrella header "MySQLite.h"
+
+  export *
+  module * { export * }
+}
