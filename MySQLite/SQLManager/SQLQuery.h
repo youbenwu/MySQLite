@@ -2,16 +2,16 @@
 //  SQLQuery.h
 //  BOOK
 //
-//  Created by iflashbuy on 16/8/29.
+//  Created by youbenwu on 16/8/29.
 //  Copyright © 2016年 youbenwu. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 #import "SQLDatabase.h"
 #import "SQLEntity.h"
-#import <UIKit/UIKit.h>
 
-@class SQLEntity,SQLDatabase;
+@class SQLDatabase,SQLEntity;
 @interface SQLQuery : NSObject
 
 -(instancetype)initWithDatabase:(SQLDatabase *)db sql:(NSString*)sql SQLEntity:(SQLEntity*)en;

@@ -2,14 +2,14 @@
 //  SQLTransaction.h
 //  BOOK
 //
-//  Created by iflashbuy on 16/8/31.
+//  Created by youbenwu on 16/8/31.
 //  Copyright © 2016年 youbenwu. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
 #import "SQLDatabase.h"
 
-@class SQLDatabase;
+@class SQLManager,SQLDatabase;
 @interface SQLTransaction : NSObject
 
 //1 begin 2commit 3rollback

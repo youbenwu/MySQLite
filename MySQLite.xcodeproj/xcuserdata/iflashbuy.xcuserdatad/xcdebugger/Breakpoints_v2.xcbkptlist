@@ -10,13 +10,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "MySQLite/SQLManager/SQLQuery.h"
-            timestampString = "494908869.586527"
+            timestampString = "494996366.022405"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "14"
-            endingLineNumber = "14"
-            landmarkName = "@interface SQLQuery"
-            landmarkType = "2">
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "-initWithDatabase:sql:SQLEntity:"
+            landmarkType = "4">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

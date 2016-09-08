@@ -2,7 +2,7 @@
 //  SQLEntity.h
 //  BOOK
 //
-//  Created by iflashbuy on 16/8/30.
+//  Created by youbenwu on 16/8/30.
 //  Copyright © 2016年 youbenwu. All rights reserved.
 //
 
